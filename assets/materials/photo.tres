@@ -1,0 +1,7 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://assets/textures/family_photo.png" id="1_t"]
+
+[resource]
+albedo_texture = ExtResource("1_t")
+roughness = 0.6
